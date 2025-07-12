@@ -1,0 +1,18 @@
+path: ###
+train: ###
+val: ###
+test:
+
+names:
+  0: crosswalk
+  1: person
+  2: bicyclist
+  3: motorcyclist
+  4: bench
+  5: traffic_light
+  6: bike
+  7: bus
+  8: car
+  9: motorcycle
+  10: vehicle
+  11: truck
